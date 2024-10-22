@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python,batch
 - 💞️ I’m looking to collaborate on Roblox Games
 - 📫 How to reach me idk
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: idk
+- ⚡ Fun fact: idk
 
 <!---
 BetaCreations/BetaCreations is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
